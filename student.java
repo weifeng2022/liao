@@ -3,6 +3,7 @@ package git;
 import java.util.*;
 
 interface biao{
+	//
     void print(int i);
 	// 检查是否有 stuType对应的班级名额
     // 如果没有剩余名额，请返回 false ，否则学生将报名进入该班级并返回 true
